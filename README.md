@@ -5,3 +5,4 @@ Repositorio para armazenar os informalcoes e resumos do curso do dio.me, do curs
 github.
 
 # DTESTE
+apenas modificando o arquivo fonte
